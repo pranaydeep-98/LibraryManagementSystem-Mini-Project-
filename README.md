@@ -43,13 +43,11 @@ git clone https://github.com/yourusername/LibraryManagementSystem.git
 cd LibraryManagementSystem
 
 ## 🚀 Setup & Installation
-### 1️⃣ Clone the Repository  
-git clone https://github.com/yourusername/LibraryManagementSystem.git
-cd LibraryManagementSystem
-### 2️⃣ Compile the Java Files
-      javac BookInfo.java LibraryGui.java
-### 3️⃣ Run the Application
-      java LibraryGui
+#### 1️⃣ Clone the Repository  
+#### 2️⃣ Compile the Java Files
+       javac BookInfo.java LibraryGui.java
+#### 3️⃣ Run the Application
+        java LibraryGui
 ### 📌 How It Works
 1️⃣ Enter Roll Number in the GUI.
 2️⃣ The system retrieves the book details.
