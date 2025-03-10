@@ -38,7 +38,7 @@ The **Library Management System** allows students to check details of borrowed b
 ## 🚀 Setup & Installation  
 
 ### 1️⃣ Clone the Repository  
-```sh
+
 git clone https://github.com/yourusername/LibraryManagementSystem.git
 cd LibraryManagementSystem
 
