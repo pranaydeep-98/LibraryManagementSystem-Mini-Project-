@@ -6,7 +6,7 @@
 ---
 
 ## 🔹 Overview  
-The **Library Management System** allows students to check details of borrowed books using their **Roll Number**. This system is built using **Java Swing (GUI)** and **Object-Oriented Programming (OOP) principles**.  
+The **Library Management System** allows students to check details of borrowed books using their **Roll Number**. //This system is built using **Java Swing (GUI)** and **Object-Oriented Programming (OOP) principles**.  
 
 ---
 
