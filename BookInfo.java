@@ -7,7 +7,7 @@ public class BookInfo {
     private String bookId; // BookId
     private String bookName; //BookName
     private Date borrowDate; //BorrowDate
-    private Date returnDate;
+    private Date returnDate; // Return Date
 
     public BookInfo() {
     }
