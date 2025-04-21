@@ -2,11 +2,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class BookInfo {
-    private String name;
-    private String rollNumber;
-    private String bookId;
-    private String bookName;
-    private Date borrowDate;
+    private String name; //Name 
+    private String rollNumber; //RollNo
+    private String bookId; // BookId
+    private String bookName; //BookName
+    private Date borrowDate; //BorrowDate
     private Date returnDate;
 
     public BookInfo() {
